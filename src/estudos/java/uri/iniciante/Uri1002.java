@@ -16,12 +16,7 @@ import java.io.InputStreamReader;
 //	Área do Círculo
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
-//
-//	RESPOSTA: Accepted
-//	TEMPO: 0.052s
-//	SUBMISSÃO: 29/04/15 21:01:26
-//
-//
+
 //	A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema
 //	que π = 3.14159:
 //	
@@ -46,7 +41,14 @@ import java.io.InputStreamReader;
 //	
 //	150.00					A=70685.7750
 
-
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1002
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.052s
+ *	SUBMISSÃO: 29/04/15 21:01:26
+ */
 	
 public class Uri1002 {
  

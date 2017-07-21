@@ -16,11 +16,6 @@ import java.util.Scanner;
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
 //	
-//	RESPOSTA: Accepted
-//	TEMPO: 0.056s
-//	SUBMISSÃO: 30/04/15 00:38:32
-//	
-//	
 //	Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo 
 //	produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 //	
@@ -50,7 +45,14 @@ import java.util.Scanner;
 //	-7
 //	8
 
-
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1007
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.056s
+ *	SUBMISSÃO: 30/04/15 00:38:32
+ */
 
 
 public class Uri1007 {

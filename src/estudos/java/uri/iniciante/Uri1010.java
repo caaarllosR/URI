@@ -16,11 +16,6 @@ import java.util.Scanner;
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
 //	
-//	RESPOSTA: Accepted
-//	TEMPO: 0.060s
-//	SUBMISSÃO: 30/04/15 02:59:16
-//	
-//	
 //	Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o 
 //	código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Após, calcule e mostre o valor 
 //	a ser pago.
@@ -46,6 +41,14 @@ import java.util.Scanner;
 //	1 1 15.10					VALOR A PAGAR: R$ 30.20
 //	2 1 15.10
 
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1010
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.060s
+ *	SUBMISSÃO: 30/04/15 02:59:16
+ */
 
 public class Uri1010 {
  

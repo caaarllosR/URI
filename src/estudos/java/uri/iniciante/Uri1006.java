@@ -17,10 +17,6 @@ import java.util.Scanner;
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
 //	
-//	RESPOSTA: Accepted
-//	TEMPO: 0.064s
-//	SUBMISSÃO: 29/04/15 22:56:35
-//	
 //	
 //	Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno. A seguir, calcule a média do 
 //	aluno, sabendo que a nota A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5. Considere que cada 
@@ -50,7 +46,14 @@ import java.util.Scanner;
 //	10.0
 //	5.0
 
-
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1006
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.064s
+ *	SUBMISSÃO: 29/04/15 22:56:35
+ */
 
 public class Uri1006 {
  

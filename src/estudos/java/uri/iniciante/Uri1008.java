@@ -15,11 +15,6 @@ import java.util.Scanner;
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
 //	
-//	RESPOSTA: Accepted
-//	TEMPO: 0.056s
-//	SUBMISSÃO: 30/04/15 00:55:58
-//	
-//	
 //	Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe
 //	por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com 
 //	duas casas decimais.
@@ -47,6 +42,16 @@ import java.util.Scanner;
 //	6						NUMBER = 6
 //	145						SALARY = U$ 2254.75
 //	15.55
+
+
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1008
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.056s
+ *	SUBMISSÃO: 30/04/15 00:55:58
+ */
 
 
 public class Uri1008 {

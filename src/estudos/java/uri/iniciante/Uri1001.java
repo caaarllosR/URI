@@ -14,13 +14,8 @@ import java.util.Scanner;
 
 //	URI Online Judge | 1001
 //	Extremamente Básico
-//	Adaptado por Neilor Tonin, URI  Brasil
+//	Problema adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
-//	
-//	RESPOSTA: Accepted
-//	TEMPO: 0.052s
-//	SUBMISSÃO: 29/04/15 19:59:28
-//	
 //	
 //	Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B 
 //	atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. 
@@ -50,6 +45,14 @@ import java.util.Scanner;
 //	-7
 
 
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1001
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.052s
+ *	SUBMISSÃO: 29/04/15 19:59:28
+ */
 
 public class Uri1001 {
  	

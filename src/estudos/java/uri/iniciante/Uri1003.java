@@ -15,11 +15,6 @@ import java.util.Scanner;
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
 //
-//	RESPOSTA: Accepted
-//	TEMPO: 0.060s
-//	SUBMISSÃO: 29/04/15 21:30:38
-//
-//
 //	Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à
 //	variável SOMA. A seguir escrever o valor desta variável.
 //	
@@ -45,6 +40,15 @@ import java.util.Scanner;
 //	0						SOMA = 0
 //	0
 	
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1003
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.060s
+ *	SUBMISSÃO: 29/04/15 21:30:38
+ */
+
 public class Uri1003 {
  
     public static void main(String[] args) throws IOException {

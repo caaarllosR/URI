@@ -16,11 +16,6 @@ import java.util.Scanner;
 //	Adaptado por Neilor Tonin, URI  Brasil
 //	Timelimit: 1
 //
-//	RESPOSTA: Accepted
-//	TEMPO: 0.064s
-//	SUBMISSÃO: 29/04/15 21:36:01
-//
-//
 //	Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação 
 //	à variável PROD. A seguir mostre a variável PROD com mensagem correspondente.   
 //	
@@ -45,6 +40,14 @@ import java.util.Scanner;
 //	0						PROD = 0
 //	9
 
+/**
+ * @author Carlos Roger
+ * 
+ *  URI Online Judge | 1004
+ *	RESPOSTA: Accepted
+ *	TEMPO: 0.064s
+ *	SUBMISSÃO: 29/04/15 21:36:01
+ */
 
 public class Uri1004 {
  
