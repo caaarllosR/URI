@@ -37,7 +37,7 @@ import java.util.Scanner;
  * 
  *  URI Online Judge | 1052
  *	RESPOSTA: Accepted
- *	TEMPO: 0.052s
+ *	TEMPO: 0.032s
  *	SUBMISSÃO: 30/07/15 03:10:16
  */
 	
