@@ -53,6 +53,7 @@ public class Uri1151 {
  
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		
 		StringBuilder result = new StringBuilder();
 
 		int x = 0, i = 1, a = 1, p = 0, t = 0;
