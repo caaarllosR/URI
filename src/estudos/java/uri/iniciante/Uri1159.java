@@ -39,8 +39,8 @@ import java.io.OutputStreamWriter;
  * 
  *  URI Online Judge | 1159
  *	RESPOSTA: Accepted
- *	TEMPO: 0.052s
- *	SUBMISSÃO: 22/07/17 19:03:11
+ *	TEMPO: 0.040s
+ *	SUBMISSÃO: 22/07/17 21:17:49
  */
 
 
