@@ -4,28 +4,6 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 
-/**
- * IMPORTANT: 
- *      O nome da classe deve ser "Main" para que a sua solução execute
- *      Class name must be "Main" for your solution to execute
- *      El nombre de la clase debe ser "Main" para que su solución ejecutar
- */
-
-//	URI Online Judge | 1155
-//	Sequência S
-//	Adaptado por Neilor Tonin, URI  Brasil
-//	Timelimit: 1
-//	Escreva um algoritmo para calcular e escrever o valor de S, sendo S dado pela fórmula:
-//	S = 1 + 1/2 + 1/3 + … + 1/100
-//	
-//	Entrada
-//	
-//	Não há nenhuma entrada neste problema.
-//	
-//	Saída
-//	
-//	A saída contém um valor correspondente ao valor de S.
-//	O valor deve ser impresso com dois dígitos após o ponto decimal.
 
 /**
  * @author Carlos Roger

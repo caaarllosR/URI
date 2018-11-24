@@ -3,45 +3,6 @@ package estudos.java.uri.iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * IMPORTANT: 
- *      O nome da classe deve ser "Main" para que a sua solução execute
- *      Class name must be "Main" for your solution to execute
- *      El nombre de la clase debe ser "Main" para que su solución ejecutar
- */
-
-//	URI Online Judge | 1042
-//	Sort Simples
-//	Adaptado por Neilor Tonin, URI  Brasil
-//	Timelimit: 1
-//	
-//	Leia 3 valores inteiros e ordene-os em ordem crescente. No final, mostre os valores em ordem crescente, uma
-//	linha em branco e em seguida, os valores na sequência como foram lidos.
-//	
-//	Entrada
-//	
-//	A entrada contem três números inteiros.
-//	
-//	Saída
-//	
-//	Imprima a saída conforme foi especificado.
-//	
-//	Exemplo de Entrada			Exemplo de Saída
-//	7 21 -14					-14
-//								7
-//								21
-//	
-//								7
-//								21
-//								-14
-//	--------------------------------------------							
-//	-14 21 7					-14
-//								7
-//								21
-//	
-//								-14
-//								21
-//								7
 
 /**
  * @author Carlos Roger
